@@ -1,7 +1,6 @@
-test repo ke 2 buat branch
 line 1 
-  tambah 1
+  tambah 1+2
 line 2
-  tambah 2
+  tambah 2+2
 line 3
-  tambah 3
+  tambah 3+2
